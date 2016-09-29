@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+	
+	
+		<meta charset="utf-8">
+
+		<title>
+			 
+				
+				匿名用户
+				 
+			
+		</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<!-- Bootstrap -->
+    	<link href="/css/media/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    	<style type="text/css">
+	      	body {
+		        padding-top: 50px;
+		        padding-bottom: 40px;
+		        padding-left: 20px;
+		     }
+	      .sidebar-nav {
+	        padding: 100px 0;
+	      }
+	    </style>
+
+		<!--[if IE 6]>
+				<script type="text/javascript" src="http://letskillie6.googlecode.com/svn/trunk/letskillie6.zh_CN.pack.js"></script>
+		<![endif]--> 
+		<!--[if lt IE 7]>
+			<link type="text/css" href="/css/media/css/ltie7.css" rel="stylesheet" />
+		<![endif]--> 
+		
+		<!--[if IE 7]>
+			<link type="text/css" href="/css/media/css/ie7.css" rel="stylesheet" />
+		<![endif]--> 
+		<!--[if IE 8]>
+			<link type="text/css" href="/css/media/css/ie8.css" rel="stylesheet" />
+		<![endif]--> 
+		<script type="text/javascript" src="/js/media/js/tiny_mce/tiny_mce.js"></script>
+		<script type="text/javascript" src="/js/media/js/textareas.js"></script>	
+		
+			
+		<link rel="icon" href="/static/media/images/favicon.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="/static/media/images/favicon.ico">
+		<link rel="Bookmark" href="/static/media/images/favicon.ico">					
+		
+	</head>
+<body>
+
+
+	
+		  <!-- navbar -->
+	    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+	         <!-- <a class="brand" href="/index"><img class="group-logo" src="/images/media/images/acmlogo.jpg" alt="LETS" width="80" height="80" /></a>
+	     -->
+	          <a class="brand" href="/index">千锤百炼</a>
+	          <div class="nav-collapse collapse">	          	
+	            <ul class="nav">
+	              <li class=><a href="/problem/lets/">题库</a></li>
+	              <li class=><a href="/user/rank/">排名</a></li>
+	              <li class=><a href="/course/allcourse/">课程</a></li>
+	              <li class=><a href="/course/mycourse/">我的课程</a></li>
+
+	              <li class=><a href="/judge/judgelist/">状态</a></li>
+	              <li class=><a href="/contest/contestlist/?state=RUNNING">比赛</a></li>	 
+	              	          
+	            </ul>
+
+	            
+		        <ul class="nav pull-right">
+			        
+		          	<li><a href="/user/register/" id=>注册</a></li>
+		        
+		          </ul>	
+		           <form  class="navbar-form pull-right" action="/user/logincheck/" method='post' class="pull-right">
+			            <div style='display:none'><input type='hidden' name='csrfmiddlewaretoken' value='ItIp3qgvlj2MMQrBB3Ch0KrbP9MUrmh5' /></div>
+			            <input name='username' class="span2" type="text" placeholder="用户名">
+			            <input name='password' class="span2" type="password" placeholder="密码">
+			            <button type="submit" class="btn">登录</button>
+		          	</form>	          	
+				
+	          </div><!--/.nav-collapse -->
+	        </div>
+	      </div>
+	    </div>
+	    <!-- end navbar -->
+		
+		
+		
+	
+	<div class="row">
+		<div class="span12">
+		  <div>
+			<MARQUEE  BEHAVIOR=SCROLL DIRECTION=LEFT SCROLLAMOUT=6 SCROLLDELAY=200> 
+			<FONT COLOR=red size="1">
+			
+						各学院：
+        为培养我校学生的创新思维和利用计算机分析问题、解决实际问题能力，造就大学生的综合素质，推进大学生素质拓展计划的实施，学校决定举办温州大学第八届大学生程序设计竞赛。现将有关事宜通知如下：
+一、组织机构
+主办单位：温州大学教务处
+承办单位：温州大学物理与电子信息工程学院
+协办单位：温州大学程序设计协会
+二、竞赛内容
+竞赛采用温州大学在线判题系统(http://acm.wzu.edu.cn)，程序设计语言为C/C++，编程环境由组委会直接指定。具体参赛说明见附件1。
+三、竞赛对象
+对程序设计有兴趣爱好的温州大学在校全日制学生。
+四、竞赛安排
+1、报名时间、方式及截止时间：各参赛队将报名表送到所在学院的学科竞赛负责人处，学院汇总后于2015年4月7日前将报名表（见附件2）以书面方式报送物理与电子信息工程学院教学科，同时发送电子稿至luosuqin@wzu.edu.cn。
+联系人：罗素芹
+联系电话：86689019
+地点：南校区1号楼A523
+2、竞赛辅导与机位安排：
+时间：2015年4月8日14：00-16：00，并分配队伍机位，同时队伍机位安排公布在温州大学在线判题系统。
+地点：南校区5A101
+3．热身赛
+时间：2015年4月8日下午16：00-17：00。
+地点：南校区5号楼1楼机房。
+4、竞赛时间：2015年4月12日上午8：00-13：00。
+5、竞赛地点：南校区5号楼一楼机房。
+五、奖项设置
+        竞赛设置特等奖1队（可空缺），一等奖8%、二等奖15%、三等奖25%、最佳女队奖1个（所有队员均为女生）。学校将从参赛选手中选拔优秀选手组队参加浙江省大学生程序设计竞赛。（答对不少于1道题且未获奖的同学可获0.5个创新创业学分）
+
+竞赛规则和报名表请到温州大学教务处网站下载。
+教务处
+2015年3月30日
+				
+			</FONT></MARQUEE>
+		  </div>
+			<br />
+		  <div>
+			
+请先登录
+
+		  </div>
+
+		  <div id="navigator">
+					
+					
+			
+		  </div>
+
+			<div id="footer" class="navbar-fixed-bottom">
+		      <div class="container">
+		        <p class="muted credit">Copyright © 2007-2016. Designer&Developer:<a href="mailto:mingcaiyu@gmail.com" >ymc</a></a>.</p>
+		      </div>
+		  </div>
+		</div>
+	</div>
+ 	<script src="/css/media/bootstrap/js/jquery-latest.js"></script>
+    <script src="/css/media/bootstrap/js/bootstrap.js"></script>
+</body>
+</html>
+
